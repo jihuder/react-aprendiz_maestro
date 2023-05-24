@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-const titleElement = <h1>¡Hola, mundo!</h1>;
+const titleElement = <h1>Flujo de ejecucion</h1>;
 
 class App extends Component {
   render() {

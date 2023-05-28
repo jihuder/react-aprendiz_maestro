@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 class App extends Component {
   render() {
     return (
-      <div className="">
+      <div className="card">
         <div className=''>
           <img src='' alt=''></img>
         </div>

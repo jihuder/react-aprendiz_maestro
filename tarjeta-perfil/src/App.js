@@ -1,14 +1,28 @@
 import React, { Component } from 'react';
 
-const titleElement = <h1>Flujo de ejecucion</h1>;
+
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">{titleElement}</header>
+      <div className="">
+        <div className=''>
+          <img src='' alt=''></img>
+        </div>
+        <div className=''>
+          <h1>
+
+          </h1>
+          <p>
+
+          </p>
+          <div className='' >
+            <i className=''></i>
+          </div>
+
+        </div>
         <div>
-          
+
         </div>
       </div>
     );

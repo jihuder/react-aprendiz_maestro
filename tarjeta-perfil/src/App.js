@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import mano from './assets/images/mano.jpg'
+
 
 
 
@@ -6,8 +8,8 @@ class App extends Component {
   render() {
     return (
       <div className="card">
-        <div className=''>
-          <img src='' alt=''></img>
+        <div>
+          <img  src={mano} alt='perfil' className='imagen'></img>
         </div>
         <div className=''>
           <h1>
